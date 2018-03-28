@@ -21,3 +21,15 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 * **[`blockstack.js`](https://github.com/blockstack/blockstack.js):** The official JavaScript library for building apps with Blockstack
 * **[`blockstack.ts`](https://github.com/ntzwrk/blockstack.ts):** A TypeScript fork of [`blockstack.js`](https//github.com/blockstack/blockstack.js)
 * **[CompassDB](https://github.com/eder-ai/compass-db):** A library for managing advanded collections in Gaia storage
+
+## Community
+
+* **[`Twitter`](https://twitter.com/blockstack):** Blockstack twitter
+
+* **[`Official Blockstack Forum`](https://forum.blockstack.org):** Blockstack community forum
+
+* **[`Blockstack Portland`](https://meetup.com/blockstack-portland):** Portland, OR Blockstack community
+
+## Tutorials
+
+* **[`Official Tutorials`](https://blockstack.org/tutorials):** Official tutorials from the Blockstack team.  Hello Blockstack, ToDo, Managing Data with Gaia, Multi-player Storage
