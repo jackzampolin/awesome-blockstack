@@ -22,4 +22,4 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 
 * **[`blockstack.ts`](https://github.com/ntzwrk/blockstack.ts):** A TypeScript fork of [`blockstack.js`](https//github.com/blockstack/blockstack.js)
 
-* **[CompassDB](https://github.com/eder-ai/compassdb):** A library for managing advanded collections in Gaia storage
+* **[CompassDB](https://github.com/eder-ai/compass-db):** A library for managing advanded collections in Gaia storage
