@@ -35,6 +35,7 @@ If you have something that isn't yet on this awesome list, don't hesitate to sub
 
 * **[`Official Tutorials`](https://blockstack.org/tutorials):** Official tutorials from the Blockstack team.  Hello Blockstack, ToDo, Managing Data with Gaia, Multi-player Storage
 
+* **[Blockstack + React Videos](https://www.youtube.com/playlist?list=PLDQHh6RjV5oUJNbtnzV11VVghiJTPJ5Wv):** 22 videos made by Tech Rally from introduction to deployment.
 ## Starter Kits
 
 * **[`react-blockstack-redux-bundler`](https://github.com/aulneau/react-blockstack-redux-bundler):** A starter repo for building Blockstack applications in React with redux-bundler and webpack 4. 
